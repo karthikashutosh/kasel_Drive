@@ -4,7 +4,7 @@
     
 ## Functions
 
-- Users can signup and login using Authentiction
+- Users can signup and login using google  Authentiction
 - Users can view profile and edid Profile and Password
 - users can upload images and view those images and download them
 - Users can AddFolder button to add folder name by BreadCrumbsView
