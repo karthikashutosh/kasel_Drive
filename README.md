@@ -10,7 +10,7 @@
 - Users can AddFolder button to add folder name by BreadCrumbsView
 - Not only images users can upload pdf documents as well by using add file button
 - finally logout using logout button
-- Reset password options also available  
+- User  management like password reset,forgetpassword fuctions for seamless experience 
 
 ## Technologies Used
 1. Front-End - React
